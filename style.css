@@ -1,0 +1,31 @@
+body {
+  background-color: #f8f6fa;
+}
+h1 {
+  color: #b2012e;
+  font-size: 24pt;
+  font-family: Expletus Sans;
+  text-align: center;
+}
+p {
+  color: #242f3b;
+  font-size: 15pt;
+  font-family: Play;
+  width: 90%;
+}
+img {
+  width: 60vw;
+  max-width: 400px;
+  transform: translateX(20vw);
+}
+footer {
+  height: 63pt;
+  background-color: #242f3b;
+}
+h2 {
+  color: #0ec2fe;
+  display: inline-block;
+}
+footer img {
+  display: inline-block;
+}
